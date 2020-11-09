@@ -7,4 +7,4 @@ var n=function(n,t){return Math.floor(Math.random()*(t-n+1)+n)},t=function(t){va
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./js/task-1.js"),require("./js/task-2.js"),require("./js/task-3.js");
 },{"./js/task-1.js":"LLK9","./js/task-2.js":"EEVQ","./js/task-3.js":"LiEu"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.52d78d30.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/src.52d78d30.js.map
